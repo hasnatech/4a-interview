@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic Resume Builder",
+  "description": "An interactive, Typeform-like job application form that builds a resume preview in real-time. Features a sleek interface with light and bold themes, one-question-at-a-time flow, and smooth animations.",
+  "requestFramePermissions": []
+}
